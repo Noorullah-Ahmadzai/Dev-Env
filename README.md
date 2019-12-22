@@ -1,3 +1,4 @@
 # Dev-Env
-Developer Environment for NodeJs.\n
+Developer Environment for NodeJs. 
+
 Eslint + Prettier Configuration
